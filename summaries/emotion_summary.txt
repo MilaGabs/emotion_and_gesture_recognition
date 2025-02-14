@@ -1,0 +1,9 @@
+Identificao Emocoes - Total de frames analisados: 3326
+Identificao Emocoes - Total de tipos de emocoes detectadas: 7
+Identificao Emocoes - neutral: 812
+Identificao Emocoes - sad: 647
+Identificao Emocoes - fear: 403
+Identificao Emocoes - angry: 85
+Identificao Emocoes - disgust: 7
+Identificao Emocoes - happy: 565
+Identificao Emocoes - surprise: 114

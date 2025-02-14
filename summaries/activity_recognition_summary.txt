@@ -1,0 +1,9 @@
+Identificao de Gestos e Movimentos - Total de frames analisados: 3326
+Identificao de Gestos e Movimentos - Total de gestos detectados: 9
+Identificao de Gestos e Movimentos - Ambos os Bracos levantados: 2
+Identificao de Gestos e Movimentos - Apenas o Braco Direito levantado: 2
+Identificao de Gestos e Movimentos - Apenas o Braco Esquerdo levantado: 16
+Identificao de Gestos e Movimentos - Movimentos de Maos: 87
+Identificao de Gestos e Movimentos - Movimentos de Cabeca: 3
+Identificao de Gestos e Movimentos - Mao no Rosto: 33
+Identificao de Gestos e Movimentos - Movimentos Anomalos: 1
