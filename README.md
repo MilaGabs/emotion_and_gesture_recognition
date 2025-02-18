@@ -39,10 +39,10 @@ Os vídeos de saída e os relatórios gerados pelos scripts estarão localizados
 
 ### Vídeos de Saída
 
-- Reconhecimento de Emoções: videos/emotion_recognition_output.mp4
-- Reconhecimento de Atividades: videos/activity_recognition_output.mp4
+- [Reconhecimento de Emoções](./videos/emotion_recognition_output.mp4)
+- [Reconhecimento de Atividades](./videos/activity_recognition_output.mp4)
 
 ### Relatórios
 
-- Relatório de Reconhecimento de Emoções: summaries/emotion_summary.txt
-- Relatório de Reconhecimento de Atividades: summaries/activity_recognition_summary.txt
+- [Relatório de Reconhecimento de Emoções](./summaries/emotion_summary.txt)
+- [Relatório de Reconhecimento de Atividades](./summaries/activity_recognition_summary.txt)
