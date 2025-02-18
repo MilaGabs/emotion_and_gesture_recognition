@@ -4,8 +4,6 @@ from deepface import DeepFace
 from tqdm import tqdm
 import warnings
 import os
-import json
-import numpy as np
 from collections import Counter
 
 os.environ['TF_ENABLE_ONEDNN_OPTS'] = '0'
@@ -106,7 +104,7 @@ if __name__ == '__main__':
     script_dir = os.path.dirname(os.path.abspath(__file__))
 
     input_video = os.path.join(script_dir, 'videos/video.mp4')
-    output_video = os.path.join(script_dir, 'videos/output_video_emotion.mp4')
+    output_video = os.path.join(script_dir, 'videos/emotion_recognition_output.mp4')
     output_summary = os.path.join(script_dir, 'summaries/emotion_summary.txt')
 
     detect_emotions(input_video, output_video, output_summary)
